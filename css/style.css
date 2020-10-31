@@ -46,6 +46,11 @@ ul {
 .hobby {
     color: yellow;
 }
+h1 {
+    font-family:'Cinzel';
+    font-size:4em;
+    margin-bottom:0px;
+}
 footer {
     font-size: 10px;
     color:white;
